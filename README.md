@@ -134,6 +134,8 @@ add other awesome Kurds, including you!
 
 ## UI/UX
 
+- [Abdullah Omar](https://www.behance.net/abdullah_omar) Tools: Figma, adobe Xd, Origami studio, Protopie, Adobe photoshop, illustrator, after effects
+   Web Development Languages: Html, Css, Javascrpit 
 - [Ahmed Safaa](https://www.linkedin.com/in/ahmed1safaa)
 - [Akar Mohammed](https://github.com/AkarM13): Adobe Xd, Figma
 - [Arkan A. Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe Xd, Figma
